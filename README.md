@@ -1,1 +1,1 @@
-This is my website. I have made it to practice my HTML writing and to use it as a portfolio of projects I have done in my spare time. I want to use this to pivot my career path away from construction and into IT.
+This is my website. I have made it to practice my HTML writing and to use it as a portfolio of projects I have done in my spare time.
